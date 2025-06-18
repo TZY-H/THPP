@@ -52,12 +52,6 @@ python3 approx_work.py
 
 2. 编译 C++ 代码并运行相应的测试程序。
 
-## 💡 注意事项
-
-- 确保所有依赖项正确安装。
-- 若需调试或扩展功能，请参考源码中的类与函数定义。
-- 更多技术细节请参阅相关论文或文档（如有）。
-
 ---
 
 ## 🌐 English README
@@ -113,11 +107,5 @@ The `./test/` directory contains 7 example projects:
    ```
 
 2. Compile the C++ code and run the corresponding test program.
-
-## 💡 Notes
-
-- Make sure all dependencies are correctly installed.
-- For debugging or extending functionalities, refer to class and function definitions in the source code.
-- For more technical details, please refer to related papers or documentation (if available).
 
 ---
